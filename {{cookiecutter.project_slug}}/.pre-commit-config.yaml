@@ -49,6 +49,7 @@ repos:
           - flake8-bugbear
           - flake8-pie
           - flake8-simplify
+          - flake8-noqa
 
 # sets up .pre-commit-ci.yaml to ensure pre-commit dependencies stay up to date
 ci:
